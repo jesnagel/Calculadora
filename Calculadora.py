@@ -1,4 +1,4 @@
-# Calculadora Simples em Python
+# Calculadora em Python - Serve para somar, subtrair, dividir ou multiplicar dois valores.
 
 def somar(a, b):
     return a + b
